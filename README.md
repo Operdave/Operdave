@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Operdave
+- 👋 Hi, I’m Oluwapelumi
 - 👀 I’m interested in python programming, data analysis, machine learning and web design.
 - 🌱 I’m currently learning about python programming and its application to data analysis and machine learning.
 - 💞️ I’m looking to collaborate on python based projects
